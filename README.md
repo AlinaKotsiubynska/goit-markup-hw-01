@@ -1,2 +1,2 @@
-# goit-homework-1
+# goit-markup-hw-01
 Домашняя работа №1
